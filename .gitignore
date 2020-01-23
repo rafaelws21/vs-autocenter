@@ -1,0 +1,11 @@
+/dist/
+/grunt-maven.json
+/npm-debug.log
+/app/bower_components/
+/app/bower_components
+/node_modules
+.sass-cache
+.sass-cache/
+**/.idea/
+*config-dev.js
+/bower.json
